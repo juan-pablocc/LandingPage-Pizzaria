@@ -1,13 +1,35 @@
-@media screen and (max-width: 800px) {
-  * {
-    font-size: 14px;
+@media (max-width: 600px) {
+  nav li {
+    display: block;
+    margin: 1rem 0;
   }
-}
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  .hero {
+    height: 60vh;
+    padding: 3rem 1rem;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .cta-button {
+    font-size: 0.875rem;
+    padding: 0.5rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  .menu-list > li {
+    margin: 1rem;
+    max-width: 100%;
+  }
 }
 
 :root {
