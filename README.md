@@ -1,4 +1,4 @@
-# Landing Page - Pizzaria ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-yellowgreen)
+# Landing Page - Pizzaria ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-yellowgreen) <a href="https://juan-pablocc.github.io/LandingPage-Pizzaria/">Clique aqui para ver</a>
 
 
 ## Descrição
